@@ -24,11 +24,13 @@ const Playground = () => {
         for (let combo in combos) {
             combos[combo].forEach((pattern) => {
                 if (squares[pattern[0]] === '' || squares[pattern[1]] === '' || squares[pattern[2]] === '') { }
-                else if (squares[pattern[0]] === squares[pattern[1]] && squares[pattern[1]] === squares[pattern[2]]) {
-                    setWinner(squares[pattern[0]] + " is the winner!");
-                }
-                else if (!squares.includes('')) {
+                else {
+                    if (squares[pattern[0]] === squares[pattern[1]] && squares[pattern[1]] === squares[pattern[2]]) {
+                        setWinner(squares[pattern[0]] + " is the winner!");
+                    }
+                    else if (!squares.includes('')) {
                     setWinner("It's a DRAW!");
+                    }
                 }
             });
         }

@@ -1,7 +1,7 @@
 
 # Tic-Tac-Toe
 
-The website <https://tic-tac-toe-fun.vercel.app/> is a fun and interactive Tic Tac Toe game that has been developed using the React framework. The game has a simple and easy-to-use interface, which allows users to quickly start playing and enjoy the game. The website also has a responsive design, which means that it can be easily accessed on different devices such as desktops, tablets, and smartphones. Overall, the website is a great way to spend some time having fun and playing an exciting game of Tic Tac Toe.
+The website <https://tic-tac-toe-two-player.vercel.app/> is a fun and interactive Tic Tac Toe game that has been developed using the React framework. The game has a simple and easy-to-use interface, which allows users to quickly start playing and enjoy the game. The website also has a responsive design, which means that it can be easily accessed on different devices such as desktops, tablets, and smartphones. Overall, the website is a great way to spend some time having fun and playing an exciting game of Tic Tac Toe.
 
 ## Screenshots
 

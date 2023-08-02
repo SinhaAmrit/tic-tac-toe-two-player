@@ -5,7 +5,7 @@ The website <https://tic-tac-toe-two-player.vercel.app/> is a fun and interactiv
 
 ## Screenshots
 
-![App Screenshot](https://gcdnb.pbrd.co/images/wJE9TKE3nxwW.jpg?o=1?text=App+Screenshot+Here)
+![App Screenshot](https://sinhaamrit.vercel.app/img/portfolio/two-player.PNG?o=1?text=App+Screenshot+Here)
 
 ## Run Locally
 
